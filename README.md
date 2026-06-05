@@ -56,30 +56,28 @@
 </p>
 ```
 
-```
 ###NoteBook Visualizations
 
-### PCA Results
+## PCA Results
 <p align="center">
   <img src="screenshot/pca.png" alt="Results" width="80%">
 </p>
 
-### Clustring Results
+## Clustring Results
 <p align="center">
   <img src="screenshot/result.png" alt="Results" width="80%">
 </p>
 
-### Algorithm Comparison
+## Algorithm Comparison
 <p align="center">
   <img src="screenshot/Performance comparison.png" alt="Comparison" width="80%">
 </p>
 
-### Cluster Distribution
+## Cluster Distribution
 <p align="center">
   <img src="screenshot/Cluster distribution.png" alt="Comparison" width="80%">
 </p>
 
----
 
 ```
 ## 🚀 Quick Start
@@ -90,8 +88,6 @@
 - pip (Python package manager)
 - Web browser (for dashboard)
 ```
-
----
 
 ## 🎯 Features
 
@@ -133,7 +129,6 @@
 - 🎯 Best algorithm suggestion
 - 📈 Performance metrics breakdown
 
----
 
 ## 🏗️ Project Structure
 
