@@ -130,7 +130,7 @@
 - 📈 Performance metrics breakdown
 
 
-## 🏗️ Project Structure
+## 📁 Project Structure
 
 ```
 Clustering-Algorithms-Comparison-Analysis
@@ -151,9 +151,16 @@ Clustering-Algorithms-Comparison-Analysis
 ├── screenshot
 │   ├── Cluster distribution.png
 │   ├── Performance comparison.png
+│   ├── img1.png
+│   ├── img2.png
+│   ├── img3.png
+│   ├── img4.png
+│   ├── img5.png
+│   ├── img6.png
+│   ├── img7.png
+│   ├── img8.png
 │   ├── pca.png
-│   ├── result.png
-│   └── other project screenshots
+│   └── result.png
 │
 ├── src
 │   ├── clustering.py
@@ -164,7 +171,6 @@ Clustering-Algorithms-Comparison-Analysis
 ├── README.md
 └── requirements.txt
 ```
-
 ---
 
 ## 🎓 Understanding the Concepts
@@ -486,8 +492,6 @@ If this project helped you:
 ## 📞 Contact & Support
 
 - 📧 **Email**: mahishukla580@gmail.com
-- 💬 **Issues**: [GitHub Issues](https://github.com/MahiShukla-ms/Clustring-Algorithms-Comparison-Analysis/issues)
-- 💡 **Discussions**: [GitHub Discussions](https://github.com/MahiShukla-ms/Clustring-Algorithms-Comparison-Analysis/discussions)
 - 🔗 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/mahi-shukla-921551272/)
 
 ---
