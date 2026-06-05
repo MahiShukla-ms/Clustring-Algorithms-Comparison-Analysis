@@ -55,6 +55,8 @@
   <img src="screenshot/img8.png" alt="Dashboard" width="80%">
 </p>
 ```
+
+```
 ###NoteBook Visualizations
 
 ### PCA Results
@@ -79,6 +81,7 @@
 
 ---
 
+```
 ## 🚀 Quick Start
 
 ### Prerequisites
