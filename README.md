@@ -31,6 +31,30 @@
   <img src="screenshot/img2.png" alt="Dashboard" width="80%">
 </p>
 
+<p align="center">
+  <img src="screenshot/img3.png" alt="Dashboard" width="80%">
+</p>
+
+<p align="center">
+  <img src="screenshot/img4.png" alt="Dashboard" width="80%">
+</p>
+
+<p align="center">
+  <img src="screenshot/img5.png" alt="Dashboard" width="80%">
+</p>
+
+<p align="center">
+  <img src="screenshot/img6.png" alt="Dashboard" width="80%">
+</p>
+
+<p align="center">
+  <img src="screenshot/img7.png" alt="Dashboard" width="80%">
+</p>
+
+<p align="center">
+  <img src="screenshot/img8.png" alt="Dashboard" width="80%">
+</p>
+
 ### Clustering Results
 <p align="center">
   <img src="screenshots/results.png" alt="Results" width="80%">
