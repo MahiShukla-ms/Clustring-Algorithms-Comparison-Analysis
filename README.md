@@ -54,9 +54,9 @@
 <p align="center">
   <img src="screenshot/img8.png" alt="Dashboard" width="80%">
 </p>
-```
 
-###NoteBook Visualizations
+
+##NoteBook Visualizations
 
 ## PCA Results
 <p align="center">
@@ -133,36 +133,36 @@
 ## 🏗️ Project Structure
 
 ```
-clustering-analysis/
+Clustering-Algorithms-Comparison-Analysis
 │
-├── src/                                    # Source code
-│   ├── __init__.py
-│   ├── preprocessing.py                   # TF-IDF vectorization
-│   ├── pca.py                            # PCA reduction
-│   ├── kmeans_model.py                   # K-Means clustering
-│   ├── hierarchical_model.py             # Hierarchical clustering
-│   ├── dbscan_model.py                   # DBSCAN clustering
-│   ├── agglomerative_model.py            # Agglomerative clustering
-│   └── evaluation.py                     # Metrics computation
+├── Dashboard
+│   └── dashboard.html
 │
-├── app.py                                 # Main Streamlit app
-├── dashboard.html                         # Interactive HTML dashboard
-├── requirements.txt                       # Dependencies
-├── README.md                              # This file
-├── LICENSE                                # MIT License
+├── Dataset
+│   ├── fashion-mnist_test.csv
+│   ├── class_distribution.csv
+│   ├── cluster_assignments1.csv
+│   ├── cluster_metrics1.csv
+│   └── dashboard_summary1.csv
 │
-├── data/                                  # Datasets
-│   └── sample_data.csv
+├── Notebook
+│   └── Clustering_Analysis.ipynb
 │
-├── screenshots/                           # Project screenshots
-│   ├── dashboard.png
-│   ├── results.png
-│   └── comparison.png
+├── screenshot
+│   ├── Cluster distribution.png
+│   ├── Performance comparison.png
+│   ├── pca.png
+│   ├── result.png
+│   └── other project screenshots
 │
-└── report/                                # Documentation
-    ├── PROJECT_REPORT.pdf
-    ├── SETUP_GUIDE.md
-    └── VIVA_GUIDE.md
+├── src
+│   ├── clustering.py
+│   ├── evaluation.py
+│   ├── preprocessing.py
+│   └── __pycache__
+│
+├── README.md
+└── requirements.txt
 ```
 
 ---
@@ -199,12 +199,8 @@ Converts text to numbers:
 ```
 Document: "Python is great for data science"
 
-TF-IDF Vector:
-[0.0,  # apple
- 0.15, # data  <- important word
- 0.0,  # great
- 0.18, # python <- important word
- ...]
+ python <- important word
+
 ```
 
 ### Principal Component Analysis (PCA)
@@ -357,7 +353,7 @@ colors = ['#FF6B9D', '#9B59B6', '#F1C40F', '#2C3E50']
 ### Understanding Clustering
 - [Scikit-learn Clustering Documentation](https://scikit-learn.org/stable/modules/clustering.html)
 - [PCA Explained](https://en.wikipedia.org/wiki/Principal_component_analysis)
-- [TF-IDF Guide](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
+  
 
 ### Books
 - "Introduction to Data Mining" - Tan, Steinbach, Kumar
@@ -489,20 +485,18 @@ If this project helped you:
 
 ## 📞 Contact & Support
 
-- 📧 **Email**: your.email@example.com
-- 💬 **Issues**: [GitHub Issues](https://github.com/your-username/clustering-analysis/issues)
-- 💡 **Discussions**: [GitHub Discussions](https://github.com/your-username/clustering-analysis/discussions)
-- 🔗 **LinkedIn**: [Connect with me](https://linkedin.com/in/your-profile)
+- 📧 **Email**: mahishukla580@gmail.com
+- 💬 **Issues**: [GitHub Issues](https://github.com/MahiShukla-ms/Clustring-Algorithms-Comparison-Analysis/issues)
+- 💡 **Discussions**: [GitHub Discussions](https://github.com/MahiShukla-ms/Clustring-Algorithms-Comparison-Analysis/discussions)
+- 🔗 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/mahi-shukla-921551272/)
 
 ---
 
 ## 🔗 Quick Links
 
-- [Live Demo](#) - Try the dashboard online
-- [Documentation](docs/) - Detailed guides
-- [GitHub Repository](https://github.com/your-username/clustering-analysis)
-- [Project Report](report/PROJECT_REPORT.pdf)
-- [Setup Guide](docs/SETUP_GUIDE.md)
+- [Live Demo](http://127.0.0.1:5500/Dashboard/dashborad.html) - Try the dashboard online
+- [GitHub Repository](https://github.com/MahiShukla-ms/Clustring-Algorithms-Comparison-Analysis)
+- [Linkedin](https://www.linkedin.com/in/mahi-shukla-921551272/)
 
 ---
 
