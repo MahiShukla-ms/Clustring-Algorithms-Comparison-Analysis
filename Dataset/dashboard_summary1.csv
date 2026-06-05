@@ -1,0 +1,2 @@
+dataset_rows,dataset_columns,label_classes,min_pixel,max_pixel,missing_values
+10000,785,10,0,255,0
