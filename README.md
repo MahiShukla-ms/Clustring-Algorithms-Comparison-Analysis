@@ -1,9 +1,6 @@
 # 🎨 Comparative Analysis of Clustering Algorithms on High-Dimensional Data
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-brightgreen.svg)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.28.0-FF4B4B.svg)](https://streamlit.io)
-[![Contributors](https://img.shields.io/badge/Contributors-Welcome-brightgreen.svg)](#-contributing)
+
 
 > **An Interactive, Visually Stunning Dashboard for Advanced Clustering Analysis** 📊✨
 
