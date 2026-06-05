@@ -24,7 +24,11 @@
 
 ### Dashboard Preview
 <p align="center">
-  <img src="screenshots/dashboard.png" alt="Dashboard" width="80%">
+  <img src="screenshot/img1.png" alt="Dashboard" width="80%">
+</p>
+
+<p align="center">
+  <img src="screenshot/img2.png" alt="Dashboard" width="80%">
 </p>
 
 ### Clustering Results
