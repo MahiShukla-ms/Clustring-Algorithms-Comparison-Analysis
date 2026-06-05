@@ -54,15 +54,27 @@
 <p align="center">
   <img src="screenshot/img8.png" alt="Dashboard" width="80%">
 </p>
+```
+###NoteBook Visualizations
 
-### Clustering Results
+### PCA Results
 <p align="center">
-  <img src="screenshots/results.png" alt="Results" width="80%">
+  <img src="screenshots/pca.png" alt="Results" width="80%">
+</p>
+
+### Clustring Results
+<p align="center">
+  <img src="screenshots/result.png" alt="Results" width="80%">
 </p>
 
 ### Algorithm Comparison
 <p align="center">
-  <img src="screenshots/comparison.png" alt="Comparison" width="80%">
+  <img src="screenshots/performance comparison.png" alt="Comparison" width="80%">
+</p>
+
+### Cluster Distribution
+<p align="center">
+  <img src="screenshots/Cluster distribution.png" alt="Comparison" width="80%">
 </p>
 
 ---
