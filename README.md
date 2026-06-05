@@ -69,7 +69,7 @@
 
 ### Algorithm Comparison
 <p align="center">
-  <img src="screenshot/performance comparison.png" alt="Comparison" width="80%">
+  <img src="screenshot/Performance comparison.png" alt="Comparison" width="80%">
 </p>
 
 ### Cluster Distribution
