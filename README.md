@@ -59,22 +59,22 @@
 
 ### PCA Results
 <p align="center">
-  <img src="screenshots/pca.png" alt="Results" width="80%">
+  <img src="screenshot/pca.png" alt="Results" width="80%">
 </p>
 
 ### Clustring Results
 <p align="center">
-  <img src="screenshots/result.png" alt="Results" width="80%">
+  <img src="screenshot/result.png" alt="Results" width="80%">
 </p>
 
 ### Algorithm Comparison
 <p align="center">
-  <img src="screenshots/performance comparison.png" alt="Comparison" width="80%">
+  <img src="screenshot/performance comparison.png" alt="Comparison" width="80%">
 </p>
 
 ### Cluster Distribution
 <p align="center">
-  <img src="screenshots/Cluster distribution.png" alt="Comparison" width="80%">
+  <img src="screenshot/Cluster distribution.png" alt="Comparison" width="80%">
 </p>
 
 ---
