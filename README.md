@@ -464,11 +464,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💼 Author
 
 **Your Name**
-- 🎓 University: [Your University]
+- 🎓 University: [Galgotias University]
 - 📚 Course: Data Warehousing and Data Mining
-- 📧 Email: your.email@example.com
-- 🔗 LinkedIn: [Your LinkedIn]
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
+- 📧 Email:mahishukla580@gmail.com
+- 🔗 LinkedIn: [Linkedin](https://www.linkedin.com/in/mahi-shukla-921551272/)
+- 🐙 GitHub: [@MahiShukla-ms](https://github.com/MahiShukla-ms)
 
 ---
 
